@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-15",
+  "queries": [
+    {
+      "query": "backup",
+      "url": "https://github.com/search?q=backup&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:20:42.769Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading restic/restic, Value: 3",
+        "97 link Description: 36575 stars, Value: github.com/restic/restic/stargazers",
+        "102 heading MichaelCade/90DaysOfDevOps, Value: 3",
+        "113 link Description: 29833 stars, Value: github.com/MichaelCade/90DaysOfDevOps/stargazers",
+        "118 heading koodo-reader/koodo-reader, Value: 3",
+        "131 link Description: 28509 stars, Value: github.com/koodo-reader/koodo-reader/stargazers",
+        "136 heading lra/mackup, Value: 3",
+        "143 link Description: 15340 stars, Value: github.com/lra/mackup/stargazers",
+        "148 heading duplicati/duplicati, Value: 3",
+        "161 link Description: 15088 stars, Value: github.com/duplicati/duplicati/stargazers",
+        "166 heading kopia/kopia, Value: 3",
+        "181 link Description: 14348 stars, Value: github.com/kopia/kopia/stargazers",
+        "186 heading borgbackup/borg, Value: 3",
+        "197 link Description: 13840 stars, Value: github.com/borgbackup/borg/stargazers",
+        "202 heading nextcloud/all-in-one, Value: 3",
+        "212 link Description: 10586 stars, Value: github.com/nextcloud/all-in-one/stargazers",
+        "217 heading velero-io/velero, Value: 3",
+        "229 link Description: 10338 stars, Value: github.com/velero-io/velero/stargazers",
+        "234 heading alexanderepstein/Bash-Snippets, Value: 3",
+        "245 link Description: 9954 stars, Value: github.com/alexanderepstein/Bash-Snippets/stargazers"
+      ]
+    },
+    {
+      "query": "kafka",
+      "url": "https://github.com/search?q=kafka&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:20:46.441Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading pathwaycom/pathway, Value: 3",
+        "95 link Description: 62121 stars, Value: github.com/pathwaycom/pathway/stargazers",
+        "100 heading pathwaycom/serviette, Value: 3",
+        "111 link Description: 58789 stars, Value: github.com/pathwaycom/serviette/stargazers",
+        "116 heading DataTalksClub/data-engineering-zoomcamp, Value: 3",
+        "127 link Description: 46209 stars, Value: github.com/DataTalksClub/data-engineering-zoomcamp/stargazers",
+        "132 heading apache/kafka, Value: 3",
+        "144 link Description: 33954 stars, Value: github.com/apache/kafka/stargazers",
+        "149 heading yudaocode/SpringBoot-Labs, Value: 3",
+        "160 link Description: 20131 stars, Value: github.com/yudaocode/SpringBoot-Labs/stargazers",
+        "165 heading influxdata/telegraf, Value: 3",
+        "176 link Description: 17861 stars, Value: github.com/influxdata/telegraf/stargazers",
+        "181 heading heibaiying/BigData-Notes, Value: 3",
+        "192 link Description: 16987 stars, Value: github.com/heibaiying/BigData-Notes/stargazers",
+        "197 heading zhisheng17/flink-learning, Value: 3",
+        "210 link Description: 15099 stars, Value: github.com/zhisheng17/flink-learning/stargazers",
+        "215 heading aalansehaiyang/technology-talk, Value: 3",
+        "224 link Description: 14742 stars, Value: github.com/aalansehaiyang/technology-talk/stargazers",
+        "229 heading sogou/workflow, Value: 3",
+        "240 link Description: 14428 stars, Value: github.com/sogou/workflow/stargazers"
+      ]
+    },
+    {
+      "query": "invoice",
+      "url": "https://github.com/search?q=invoice&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:20:49.681Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading midday-ai/midday, Value: 3",
+        "96 link Description: 15072 stars, Value: github.com/midday-ai/midday/stargazers",
+        "101 heading QuestPDF/QuestPDF, Value: 3",
+        "112 link Description: 14198 stars, Value: github.com/QuestPDF/QuestPDF/stargazers",
+        "117 heading aureuserp/aureuserp, Value: 3",
+        "128 link Description: 12062 stars, Value: github.com/aureuserp/aureuserp/stargazers",
+        "133 heading invoiceninja/invoiceninja, Value: 3",
+        "146 link Description: 10277 stars, Value: github.com/invoiceninja/invoiceninja/stargazers",
+        "151 heading idurar/idurar-erp-crm, Value: 3",
+        "164 link Description: 8878 stars, Value: github.com/idurar/idurar-erp-crm/stargazers",
+        "169 heading crater-invoice-inc/crater, Value: 3",
+        "182 link Description: 8353 stars, Value: github.com/crater-invoice-inc/crater/stargazers",
+        "187 heading Dolibarr/dolibarr, Value: 3",
+        "200 link Description: 7727 stars, Value: github.com/Dolibarr/dolibarr/stargazers",
+        "205 heading alvarcarto/url-to-pdf-api, Value: 3",
+        "218 link Description: 7107 stars, Value: github.com/alvarcarto/url-to-pdf-api/stargazers",
+        "223 heading vas3k/TaxHacker, Value: 3",
+        "236 link Description: 6749 stars, Value: github.com/vas3k/TaxHacker/stargazers",
+        "241 heading al1abb/invoify, Value: 3",
+        "254 link Description: 6374 stars, Value: github.com/al1abb/invoify/stargazers"
+      ]
+    },
+    {
+      "query": "opentelemetry",
+      "url": "https://github.com/search?q=opentelemetry&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:20:53.195Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading traefik/traefik, Value: 3",
+        "95 link Description: 65223 stars, Value: github.com/traefik/traefik/stargazers",
+        "100 heading SigNoz/signoz, Value: 3",
+        "113 link Description: 32360 stars, Value: github.com/SigNoz/signoz/stargazers",
+        "118 heading jaegertracing/jaeger, Value: 3",
+        "129 link Description: 23297 stars, Value: github.com/jaegertracing/jaeger/stargazers",
+        "134 heading openobserve/openobserve, Value: 3",
+        "145 link Description: 22376 stars, Value: github.com/openobserve/openobserve/stargazers",
+        "150 heading jina-ai/serve, Value: 3",
+        "161 link Description: 21856 stars, Value: github.com/jina-ai/serve/stargazers",
+        "166 heading gofr-dev/gofr, Value: 3",
+        "177 link Description: 20856 stars, Value: github.com/gofr-dev/gofr/stargazers",
+        "182 heading VictoriaMetrics/VictoriaMetrics, Value: 3",
+        "193 link Description: 17860 stars, Value: github.com/VictoriaMetrics/VictoriaMetrics/stargazers",
+        "198 heading Effect-TS/effect, Value: 3",
+        "209 link Description: 17290 stars, Value: github.com/Effect-TS/effect/stargazers",
+        "214 heading gogf/gf, Value: 3",
+        "225 link Description: 13287 stars, Value: github.com/gogf/gf/stargazers",
+        "230 heading hyperdxio/hyperdx, Value: 3",
+        "241 link Description: 9944 stars, Value: github.com/hyperdxio/hyperdx/stargazers"
+      ]
+    },
+    {
+      "query": "github actions matrix",
+      "url": "https://github.com/search?q=github%20actions%20matrix&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:20:55.330Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading jonico/awesome-runners, Value: 3",
+        "99 link Description: 900 stars, Value: github.com/jonico/awesome-runners/stargazers",
+        "104 heading chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020, Value: 3",
+        "112 link Description: 315 stars, Value: github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020/stargazers",
+        "117 heading vovkos/llvm-package-windows, Value: 3",
+        "131 link Description: 173 stars, Value: github.com/vovkos/llvm-package-windows/stargazers",
+        "136 heading Mic92/hestia, Value: 3",
+        "152 link Description: 121 stars, Value: github.com/Mic92/hestia/stargazers",
+        "157 heading ansible/tox-ansible, Value: 3",
+        "170 link Description: 73 stars, Value: github.com/ansible/tox-ansible/stargazers",
+        "175 heading Kleidukos/get-tested, Value: 3",
+        "189 link Description: 58 stars, Value: github.com/Kleidukos/get-tested/stargazers",
+        "194 heading jefftriplett/python-github-actions-matrix-demo, Value: 3",
+        "206 link Description: 44 stars, Value: github.com/jefftriplett/python-github-actions-matrix-demo/stargazers",
+        "211 heading hellofresh/action-changed-files, Value: 3",
+        "224 link Description: 38 stars, Value: github.com/hellofresh/action-changed-files/stargazers",
+        "229 heading staabm/phpunit-github-action-matrix, Value: 3",
+        "240 link Description: 32 stars, Value: github.com/staabm/phpunit-github-action-matrix/stargazers",
+        "245 heading laminas/laminas-ci-matrix-action, Value: 3",
+        "256 link Description: 27 stars, Value: github.com/laminas/laminas-ci-matrix-action/stargazers"
+      ]
+    },
+    {
+      "query": "github actions local",
+      "url": "https://github.com/search?q=github%20actions%20local&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:21:59.159Z",
+      "sortMostStars": true,
+      "results": [
+        "66 heading redwoodjs/local-ci, Value: 3",
+        "76 heading SanjulaGanepola/github-local-actions, Value: 3",
+        "86 heading mizchi/actrun, Value: 3",
+        "95 heading expo-starter/expo-local-first-template, Value: 3",
+        "105 heading github/local-action, Value: 3",
+        "110 heading Juanhacker051/FOTOSPLOIT-, Value: 3",
+        "115 heading the-dev-tools/dev-tools, Value: 3",
+        "120 heading helm/kind-action, Value: 3",
+        "130 heading hzy132/OpenEUICC_for_Magisk, Value: 3",
+        "135 heading chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020, Value: 3"
+      ]
+    },
+    {
+      "query": "kafka monitoring",
+      "url": "https://github.com/search?q=kafka%20monitoring&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:22:02.582Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading influxdata/telegraf, Value: 3",
+        "95 link Description: 17861 stars, Value: github.com/influxdata/telegraf/stargazers",
+        "100 heading opengoofy/hippo4j, Value: 3",
+        "113 link Description: 5997 stars, Value: github.com/opengoofy/hippo4j/stargazers",
+        "118 heading tianshiyeben/wgcloud, Value: 3",
+        "129 link Description: 5187 stars, Value: github.com/tianshiyeben/wgcloud/stargazers",
+        "134 heading smartloli/EFAK, Value: 3",
+        "151 link Description: 3180 stars, Value: github.com/smartloli/EFAK/stargazers",
+        "156 heading confluentinc/examples, Value: 3",
+        "169 link Description: 2067 stars, Value: github.com/confluentinc/examples/stargazers",
+        "174 heading linkedin/kafka-monitor, Value: 3",
+        "190 link Description: 2064 stars, Value: github.com/linkedin/kafka-monitor/stargazers",
+        "195 heading pmacct/pmacct, Value: 3",
+        "208 link Description: 1250 stars, Value: github.com/pmacct/pmacct/stargazers",
+        "213 heading xaecbd/KCenter, Value: 3",
+        "228 link Description: 1159 stars, Value: github.com/xaecbd/KCenter/stargazers",
+        "233 heading Edgio/vflow, Value: 3",
+        "244 link Description: 1157 stars, Value: github.com/Edgio/vflow/stargazers",
+        "249 heading open-source-labs/Chronos, Value: 3",
+        "264 link Description: 849 stars, Value: github.com/open-source-labs/Chronos/stargazers"
+      ]
+    },
+    {
+      "query": "invoice rounding",
+      "url": "https://github.com/search?q=invoice%20rounding&type=repositories&s=stars&o=desc",
+      "observed": "2026-10-15T06:22:05.930Z",
+      "sortMostStars": true,
+      "results": [
+        "84 heading sirprize/invoiced, Value: 3",
+        "94 link Description: 3 stars, Value: github.com/sirprize/invoiced/stargazers",
+        "99 heading Anonymous-988/Cross-Source-Record-Linking-App, Value: 3",
+        "105 link Description: 1 stars, Value: github.com/Anonymous-988/Cross-Source-Record-Linking-App/stargazers",
+        "110 heading askilawat/InvoiceDisplay, Value: 3",
+        "118 link Description: 0 stars, Value: github.com/askilawat/InvoiceDisplay/stargazers",
+        "123 heading gcoop-libre/trytond-account_invoice_information_uom_round, Value: 3",
+        "132 link Description: 0 stars, Value: github.com/gcoop-libre/trytond-account_invoice_information_uom_round/stargazers",
+        "137 heading ingegniamo/account_invoice_triple_discount_workaround_rounding, Value: 3",
+        "142 link Description: 0 stars, Value: github.com/ingegniamo/account_invoice_triple_discount_workaround_rounding/stargazers",
+        "147 heading AADAL1998/InvoiceApp, Value: 3",
+        "155 link Description: 0 stars, Value: github.com/AADAL1998/InvoiceApp/stargazers",
+        "160 heading uncoder/invoicer, Value: 3",
+        "169 link Description: 0 stars, Value: github.com/uncoder/invoicer/stargazers",
+        "174 heading atharv4927/display-invoice, Value: 3",
+        "182 link Description: 0 stars, Value: github.com/atharv4927/display-invoice/stargazers",
+        "187 heading codemukul/display_an_invoice, Value: 3",
+        "194 link Description: 0 stars, Value: github.com/codemukul/display_an_invoice/stargazers",
+        "199 heading sahily98-rs/galatiq-invoice-agents, Value: 3",
+        "206 link Description: 0 stars, Value: github.com/sahily98-rs/galatiq-invoice-agents/stargazers"
+      ]
+    }
+  ],
+  "comparables": [
+    {
+      "repo": "SigNoz/signoz",
+      "url": "https://github.com/SigNoz/signoz",
+      "stars": 32360,
+      "observed": "2026-10-15T06:22:26.935Z",
+      "pushed_at": "2026-10-15T05:59:25Z",
+      "archived": false,
+      "license": "NOASSERTION",
+      "default_branch": "main",
+      "readme_path": "README.md",
+      "readme_sha": "58f20d809ffe8fe507b17a1edbba889f4d7da35b",
+      "issues": [
+        {
+          "title": "feat(tracedetail): format OpenInference flattened messages",
+          "url": "https://github.com/SigNoz/signoz/pull/13133",
+          "created_at": "2026-10-15T05:23:14Z",
+          "updated_at": "2026-10-15T05:26:34Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "Feat/ai trace thread normalize 2",
+          "url": "https://github.com/SigNoz/signoz/pull/13131",
+          "created_at": "2026-10-15T04:35:57Z",
+          "updated_at": "2026-10-15T05:22:57Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "feat(alerts): move anomaly alerts to the new alert experience",
+          "url": "https://github.com/SigNoz/signoz/pull/13130",
+          "created_at": "2026-10-14T19:39:57Z",
+          "updated_at": "2026-10-14T19:40:07Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "refactor(alerts): read the channel pickers from the v2 list API",
+          "url": "https://github.com/SigNoz/signoz/pull/13129",
+          "created_at": "2026-10-14T15:35:10Z",
+          "updated_at": "2026-10-14T19:00:52Z",
+          "is_pull_request": true
+        }
+      ]
+    },
+    {
+      "repo": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "stars": 23297,
+      "observed": "2026-10-15T06:22:29.240Z",
+      "pushed_at": "2026-10-14T22:28:15Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "readme_path": "README.md",
+      "readme_sha": "8187375645c864d76986b785d70f048103eef480",
+      "issues": [
+        {
+          "title": "test(integration): Give the multiple-trace fixtures distinct start times",
+          "url": "https://github.com/jaegertracing/jaeger/pull/9851",
+          "created_at": "2026-10-15T03:24:45Z",
+          "updated_at": "2026-10-15T03:49:58Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "Cassandra integration test FindTraces/Multiple_Traces fails on main depending on time of day",
+          "url": "https://github.com/jaegertracing/jaeger/issues/9850",
+          "created_at": "2026-10-15T01:20:58Z",
+          "updated_at": "2026-10-15T03:17:44Z",
+          "is_pull_request": false
+        },
+        {
+          "title": "feat(tracegen): add configurable span duration range",
+          "url": "https://github.com/jaegertracing/jaeger/pull/9848",
+          "created_at": "2026-10-14T18:47:46Z",
+          "updated_at": "2026-10-14T18:53:53Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "[Feature]: tracegen: add --min-span-duration and --max-span-duration flags to generate realistic span latencies",
+          "url": "https://github.com/jaegertracing/jaeger/issues/9847",
+          "created_at": "2026-10-14T18:13:47Z",
+          "updated_at": "2026-10-14T18:13:47Z",
+          "is_pull_request": false
+        }
+      ]
+    },
+    {
+      "repo": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "stars": 7660,
+      "observed": "2026-10-15T06:22:29.332Z",
+      "pushed_at": "2026-10-14T21:36:49Z",
+      "archived": false,
+      "license": "Apache-2.0",
+      "default_branch": "main",
+      "readme_path": "README.md",
+      "readme_sha": "95bb0001d74b1415b0111e72f07ec2e806b80c0b",
+      "issues": [
+        {
+          "title": "[extension/memorylimiter] Add feature gate for early gRPC rejection",
+          "url": "https://github.com/open-telemetry/opentelemetry-collector/issues/16184",
+          "created_at": "2026-10-15T02:45:58Z",
+          "updated_at": "2026-10-15T02:45:58Z",
+          "is_pull_request": false
+        },
+        {
+          "title": "feat: support per-component telemetry::logs::level configuration",
+          "url": "https://github.com/open-telemetry/opentelemetry-collector/pull/16183",
+          "created_at": "2026-10-14T22:28:04Z",
+          "updated_at": "2026-10-14T22:28:13Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "[chore] [cmd/mdatagen] Use `.github/component_labels.txt` for README issue badges",
+          "url": "https://github.com/open-telemetry/opentelemetry-collector/pull/16181",
+          "created_at": "2026-10-14T19:58:52Z",
+          "updated_at": "2026-10-14T21:24:33Z",
+          "is_pull_request": true
+        },
+        {
+          "title": "[memorylimiter] Parse mountinfo lines with spaces in super options",
+          "url": "https://github.com/open-telemetry/opentelemetry-collector/pull/16180",
+          "created_at": "2026-10-14T19:13:29Z",
+          "updated_at": "2026-10-14T19:13:39Z",
+          "is_pull_request": true
+        }
+      ]
+    }
+  ],
+  "reviewed_code": [
+    {
+      "repo": "open-telemetry/opentelemetry-collector",
+      "path": "pdata/ptrace/generated_span.go",
+      "sha": "238386c1798351d70473516b1ec75aa86ed37d29"
+    }
+  ],
+  "primary_sources": [
+    "https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/run-job-variations",
+    "https://kafka.apache.org/41/javadoc/org/apache/kafka/clients/consumer/KafkaConsumer.html",
+    "https://opentelemetry.io/docs/specs/otel/trace/api/"
+  ],
+  "limits": "Search coverage is bounded; highest relevant comparable found is not an exhaustive ranking. Demand inferred. Competitor install/time/performance/reliability not benchmarked; no absence or superiority claim."
+}
